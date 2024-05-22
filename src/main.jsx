@@ -10,6 +10,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <LocalizationProvider dateAdapter={AdapterDayjs}>
       <App />
     </LocalizationProvider>
-    
   </React.StrictMode>,
 )
