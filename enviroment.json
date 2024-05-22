@@ -1,0 +1,7 @@
+{
+    "REACT_APP_GET_PRIORITIES": "http://localhost:8080/api/priorities",
+    "REACT_APP_GET_STATUS": "http://localhost:8080/api/status",
+    "REACT_APP_GET_TASKS": "http://localhost:8080/api/tasks",
+    "REACT_APP_CREATE_TASK": "http://localhost:8080/api/tasks",
+    "REACT_APP_UPDATE_TASK": "http://localhost:8080/api/tasks/"
+}
